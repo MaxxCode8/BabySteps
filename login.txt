@@ -1,0 +1,4 @@
+admin:password
+coolmalhar:simplycurious
+omni:hommie
+master:master

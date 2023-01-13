@@ -1,0 +1,14 @@
+62:12010581|coolmalhar|ET-D,SY
+46:12145672|Sanika Thorbole|ET-D,SY
+12:88888888|ElonMusk|SpaceX
+50:12134567|Sandesh|ET-D,SY
+20:25362557|Omakar Kumbhar|PR-A,TY
+41:12110580|Omkar Kulkarni|ET-B,TY
+54:12115081|Tayyab|ET-D,SY
+1:12100234|Sahil|ET-C,SY
+5:12010080|Vedant|ET-B,TY
+25:12100542|Pratiksha|ET-D,SY
+100:1200032|Tushar|ET-D,SY
+417:75689128770|Radha Kulkarni|12th, Board
+46:12110236|Sanika Adhik Thorbole|ET-D|SY
+55:12110628|Vinayak|ET-C,TY
